@@ -1,0 +1,19 @@
+{
+    "C_Cpp.default.compilerPath": "D:/mingw64/bin/g++.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "D:/mingw64/include",
+        "D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+        "D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+        "D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+        "${workspaceFolder}/Graph/include"
+    ],
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.intelliSenseMode": "gcc-x64",
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
